@@ -63,4 +63,12 @@ Mutual-Fund-Analysis-Dashboard/
 ```
 ---
 
+### 📸 Demo Preview
+
+<img width="1179" height="793" alt="Screenshot 2025-09-15 171525" src="https://github.com/user-attachments/assets/445271ea-5cf1-4b46-8095-84c9225b2019" />
+<img width="1178" height="793" alt="Screenshot 2025-09-15 171548" src="https://github.com/user-attachments/assets/16aca78d-4792-4ade-a770-7409bf6edb47" />
+<img width="1177" height="793" alt="Screenshot 2025-09-15 171612" src="https://github.com/user-attachments/assets/1bb77ad6-bcdd-4d05-846a-6d02f84cf7b0" />
+<img width="1175" height="796" alt="Screenshot 2025-09-15 171631" src="https://github.com/user-attachments/assets/9a8375e4-7654-4418-986c-82d75bc30f18" />
+
+---
 
