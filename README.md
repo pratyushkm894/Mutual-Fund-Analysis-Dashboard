@@ -72,3 +72,29 @@ Mutual-Fund-Analysis-Dashboard/
 
 ---
 
+🔮 Future Enhancements
+
+🌍 Integration with live APIs for real-time NAV & fund updates.
+
+📡 Risk-adjusted benchmarking against indices (NIFTY, Sensex).
+
+📊 Automated ranking updates with scheduled scripts.
+
+☁️ Deployment to Power BI Service for online access.
+
+📱 Mobile-optimized dashboards for quick insights.
+
+---
+
+### 👩‍💻 Author
+
+Pratyush K. Mishra
+
+📍 Data Analytics Enthusiast
+
+🔗 [Portfolio](https://github.com/pratyushkm894) | [LinkedIn](https://www.linkedin.com/in/pratyushkm809/) 
+
+📜 License
+
+This project is open-sourced under the MIT License — feel free to use and adapt it!
+
